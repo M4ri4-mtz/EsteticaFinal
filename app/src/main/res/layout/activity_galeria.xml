@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#907FFA"
+    tools:context=".galeria">
+    <TextView
+        android:id="@+id/nomusuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="GALERIA"
+        android:textColor="@color/black"
+        android:fontFamily="@font/fuenteuno"
+        android:textSize="60sp" />
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#673AB7"
+        android:elevation="4dp"
+        android:minHeight="?actionBarSize"
+        app:tabMode="fixed"
+        app:tabGravity="fill"
+        app:tabTextColor="@color/black"
+        app:tabSelectedTextColor="@color/white"/>
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        />
+    <ImageView
+        android:id="@+id/previous"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginBottom="10dp"
+        android:onClick="prev"
+        android:src="@drawable/previous"/>
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/drawable/btn.xml" value="0.13" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_galeria.xml" value="0.2" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_home.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_mapas.xml" value="0.2" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_realizar_cita.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_registro.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/activity_ver_citas.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/custom_spinner.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/custom_spinner_dropdown.xml" value="0.2" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_colimetria.xml" value="0.17494305239179955" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_corte.xml" value="0.1266490765171504" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_manicura.xml" value="0.1" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_map.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_maquillaje.xml" value="0.1" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/fragment_pedicura.xml" value="0.1" />
+        <entry key="..\:/Users/Marib/AndroidStudioProjects/EsteticaFinal/app/src/main/res/layout/menupersonalizado.xml" value="0.16032608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

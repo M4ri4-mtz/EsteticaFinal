@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Estetica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="btn1">ENTRAR</string>
+    <string name="pass">INGRESA TU CONTRASEÑA</string>
+    <string name="usr">INGRESA TU USUARIO</string>
+    <string name="bt2">REGISTRARSE</string>
+    <string name="TITULO">REGISTRO</string>
+    <string name="TEL">ANOTAR UN TELEFONO</string>
+    <string name="regis">REGISTROS</string>
+    <string name="re">regresar</string>
+    <string name="are_sure">¿Cancelar cita?</string>
+    <string name="confirm_date">¿Guardar cita?</string>
+    <string name="email">Correo electrónico</string>
+    <string name="delete">La cita se cancelará y se perderá el lugar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
